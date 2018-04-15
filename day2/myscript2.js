@@ -78,3 +78,6 @@ function myFunction9(){
         * 이밖에도 split,charAt(),chartAtCodeAt(),concat() 등이 있다.
         */
 }
+
+
+// String method 까지 공부함.
