@@ -42,3 +42,6 @@ function myFunction3() {
     document.getElementById("demo3").innerHTML =
         "My father is " + myFather.name();
 }
+/**
+ * JS Objects까지 함.
+ */
