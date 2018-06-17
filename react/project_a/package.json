@@ -1,0 +1,14 @@
+{
+  "name": "project_a",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"everything will be good\""
+  },
+  "author": "jisang",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.0"
+  }
+}
