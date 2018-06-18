@@ -4,11 +4,16 @@
   "description": "practice",
   "main": "index.js",
   "scripts": {
-    "test": "\"everything will be good\""
+    "test": "\"everything will be good\"",
+    "start": "node index.js",
+    "check": "node -v"
   },
   "author": "jisang",
   "license": "ISC",
   "dependencies": {
     "colors": "^1.3.0"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
   }
 }
