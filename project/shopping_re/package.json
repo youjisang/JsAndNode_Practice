@@ -9,7 +9,11 @@
   "author": "jisang",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3"
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "mongodb": "^3.1.1",
+    "mongoose": "^4.11.2",
+    "mongoose-auto-increment": "^5.0.1",
+    "path": "^0.12.7"
   }
 }
-
